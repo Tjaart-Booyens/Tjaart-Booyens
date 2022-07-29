@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/Tjaart-Booyens/Tjaart-Booyens/master/banner.png "Header")
-
 # Hi 👋
 
 My name is Tjaart Booyens and I am a Software Engineer from South Africa.
